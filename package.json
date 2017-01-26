@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/csimmons155/url-shortener/issues"
   },
-  "homepage": "https://github.com/csimmons155/url-shortener#readme"
+  "homepage": "https://github.com/csimmons155/url-shortener#readme",
+  "dependencies": {
+    "jade": "^1.11.0"
+  }
 }
