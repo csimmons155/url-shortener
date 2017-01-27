@@ -2,4 +2,6 @@ node_modules
 logs
 *.log 
 
-*.db 
+*.db
+
+*.env
